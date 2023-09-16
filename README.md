@@ -48,12 +48,3 @@ This project is licensed under the [MIT License](LICENSE.md).
 
 - Special thanks to the Power BI community and resources for valuable insights and inspiration.
 
-## Contact
-
-If you have any questions, suggestions, or feedback, feel free to contact the project maintainer
-
-[Your Name](mailto:youremail@example.com)
-
-## Screenshots
-
-![Dashboard Screenshot](screenshot.png)
